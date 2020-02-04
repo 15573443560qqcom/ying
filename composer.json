@@ -1,0 +1,16 @@
+{
+	"name":"15573443560qqcom/ying",
+	"description":"一个文件夹更新",
+	"type":"library",
+	"require":{
+		"php":">=7.0"
+	},
+	"license":"MIT",
+	"authors":[
+		{
+			"name":"15573443560qqcom",
+			"email":"2827717649@qq.com"
+		}	
+	],
+	"minimum-stability":"dev"
+}
